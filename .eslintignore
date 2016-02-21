@@ -1,0 +1,11 @@
+# Ignore shell scripts for testings
+bin
+
+# Ignore vendor packages
+client/lib
+
+# Ignore coverage
+coverage
+
+# Ignore node_modules
+node_modules

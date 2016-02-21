@@ -1,0 +1,4 @@
+client/lib
+client/services/services.js
+coverage
+node_modules

@@ -1,0 +1,16 @@
+{
+  "bitwise": true,
+  "browser": true,
+  "esversion": 6,
+  "globals": {"angular": false},
+  "latedef": "nofunc",
+  "mocha": "BDD",
+  "noarg": true,
+  "node": true,
+  "nonew": true,
+  "regexp": true,
+  "strict": true,
+  "trailing": false,
+  "undef": true,
+  "unused": true
+}

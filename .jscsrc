@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "jscs-jsdoc"
+  ],
+  "preset": "node-style-guide",
+  "excludeFiles": [
+    "client/lib",
+    "client/services/services.js",
+    "coverage",
+    "node_modules"
+  ],
+  "requireTrailingComma": false,
+  "disallowTrailingComma": true
+}
